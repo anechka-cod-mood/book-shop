@@ -81,5 +81,8 @@ http://localhost:5173
 Автор
 Анна Кондратьева
 
+Демо
+https://book-shop-pink-seven.vercel.app/
+
 Источник дизайна
 https://www.figma.com/design/F6asBFYdiQnJTeXWe8mAfi/User-Interface-Design-Project
